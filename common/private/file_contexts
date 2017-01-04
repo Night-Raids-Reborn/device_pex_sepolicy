@@ -26,3 +26,6 @@
 
 # SmartCharge HAL
 /system/bin/hw/vendor\.aosp\.smartcharge@1\.0-service    u:object_r:hal_aosp_smartcharge_default_exec:s0
+
+# Themes data
+/data/system/theme(/.*)?    u:object_r:theme_data_file:s0
