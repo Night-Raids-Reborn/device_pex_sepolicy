@@ -5,6 +5,3 @@ hal_attribute_lineage(lineage_fod)
 hal_attribute_lineage(lineage_livedisplay)
 hal_attribute_lineage(lineage_touch)
 hal_attribute_lineage(lineage_powershare)
-
-# Smart Charge
-hal_attribute_aosp(aosp_smartcharge)
